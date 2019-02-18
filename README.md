@@ -1,2 +1,4 @@
-# virtual-classics-collection
-The Virtual Classical Collection is a series of VR galleries featuring objects from Greek and Roman antiquity.
+# My personal webpage
+
+This is the README file for the source code for my personal webpage. It can be found at <https://lepidopterane-atsmith.github.io/sds192fp/>.  
+
